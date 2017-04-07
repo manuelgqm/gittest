@@ -1,2 +1,2 @@
 # gittest
-Sandbox for testing behavior of git commands
+Nothing exiciting, just a sandbox for testing behavior of git commands.
